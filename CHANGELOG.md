@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.24](https://github.com/devkitshq/notifkit/compare/notifkit-v0.1.23...notifkit-v0.1.24) (2026-11-22)
+
+
+### Bug Fixes
+
+* **api:** require auth on paths with doubled slashes ([002cf04](https://github.com/devkitshq/notifkit/commit/002cf04510c09dd704cf6668286eccc328b9faa1))
+
 ## [0.1.23](https://github.com/devkitshq/notifkit/compare/notifkit-v0.1.22...notifkit-v0.1.23) (2026-11-22)
 
 

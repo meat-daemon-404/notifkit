@@ -1,5 +1,5 @@
 {
-  ".": "0.1.23",
+  ".": "0.1.24",
   "packages/create-notifkit": "0.1.4",
   "packages/mcp": "0.1.7",
   "packages/provider-console": "0.1.3",
